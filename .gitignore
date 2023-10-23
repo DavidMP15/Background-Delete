@@ -1,0 +1,12 @@
+# Archivos y directorios específicos de entorno
+.venv/
+.vscode/
+
+# Resultados de compilación
+*.pyc
+*.pyo
+
+# Carpeta de resultados, ya que probablemente se llenará con archivos de imagen
+Resultado/
+
+# Ignorar otros archivos o directorios específicos que no quieres incluir en el repositorio
